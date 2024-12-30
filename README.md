@@ -83,7 +83,7 @@ The project is structured to follow an incremental development process, with wee
 - **Tasks:**  
   1. Initialize the Next.js 13 project.  
      - **Reading:** [Next.js Official Docs](https://nextjs.org/docs)  
-     - **Video:** [Next.js Crash Course](https://www.youtube.com/watch?v=LtPYuFhYf1w)  
+     - **Video:** [Next.js Crash Course](https://www.youtube.com/results?search_query=next+js+crash+course)  
   2. Install and configure Tailwind CSS.  
      - **Reading:** [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)  
      - **Video:** [Tailwind CSS Setup Tutorial](https://www.youtube.com/watch?v=UBOj6rqRUME)  
@@ -98,10 +98,10 @@ The project is structured to follow an incremental development process, with wee
 - **Tasks:**  
   1. Configure Supabase for authentication and database management.  
      - **Reading:** [Supabase Authentication Docs](https://supabase.com/docs/guides/auth)  
-     - **Video:** [Supabase Auth Tutorial](https://www.youtube.com/watch?v=9GbH4qXTViM)  
+     - **Video:** [Supabase Auth Tutorial](https://www.youtube.com/watch?v=dU7GwCOgvNY)  
   2. Set up Prisma with Supabase for database operations.  
      - **Reading:** [Prisma Documentation](https://www.prisma.io/docs)  
-     - **Video:** [Prisma Setup Guide](https://www.youtube.com/watch?v=3Y94gFa2ccA)  
+     - **Video:** [Prisma Setup Guide](https://www.youtube.com/watch?v=RebA5J-rlwg&t=155s)  
 
 - **Deliverables:**  
   - Functional authentication and user session management.
@@ -113,10 +113,10 @@ The project is structured to follow an incremental development process, with wee
 - **Tasks:**  
   1. Build product display components and dynamic pages.  
      - **Reading:** [Next.js Dynamic Routing](https://nextjs.org/docs/routing/dynamic-routes)  
-     - **Video:** [Next.js Dynamic Pages](https://www.youtube.com/watch?v=jj0JxV7nx70)  
+     - **Video:** [Next.js Dynamic Pages](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=177s)  
   2. Implement shopping cart functionality with real-time updates.  
      - **Reading:** [State Management in React](https://reactjs.org/docs/state-and-lifecycle.html)  
-     - **Video:** [React State Tutorial](https://www.youtube.com/watch?v=6l6LYOsk5sE)  
+     - **Video:** [React State Tutorial](https://www.youtube.com/watch?v=-bEzt5ISACA&t=465s)  
 
 - **Deliverables:**  
   - Interactive product pages and a working shopping cart.
@@ -128,10 +128,10 @@ The project is structured to follow an incremental development process, with wee
 - **Tasks:**  
   1. Integrate Stripe for payment processing.  
      - **Reading:** [Stripe API Docs](https://stripe.com/docs/api)  
-     - **Video:** [Stripe Payment Integration](https://www.youtube.com/watch?v=dDjzTDN3GyY)  
+     - **Video:** [Stripe Payment Integration](https://www.youtube.com/watch?v=lbEFSP1WAv0&t=21s)  
   2. Implement middleware for protected routes.  
      - **Reading:** [Next.js Middleware](https://nextjs.org/docs/middleware)  
-     - **Video:** [Middleware Implementation](https://www.youtube.com/watch?v=7wA9lkgq1Lk)  
+     - **Video:** [Middleware Implementation](https://www.youtube.com/watch?v=9dqCNjsGnsk)  
 
 - **Deliverables:**  
   - Secure checkout process and protected pages for authenticated users.
@@ -143,10 +143,10 @@ The project is structured to follow an incremental development process, with wee
 - **Tasks:**  
   1. Deploy the application to Vercel or Netlify.  
      - **Reading:** [Vercel Deployment Docs](https://vercel.com/docs)  
-     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=HQl2X5ox8EM)  
+     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=22Rywce_kcg&t=139s)  
   2. Test all features and ensure scalability.  
      - **Reading:** [Testing in React](https://reactjs.org/docs/testing.html)  
-     - **Video:** [React Testing Library Guide](https://www.youtube.com/watch?v=8J8UVhe6Ziw)  
+     - **Video:** [React Testing Library Guide](https://www.youtube.com/watch?v=8Xwq35cPwYg)  
 
 - **Deliverables:**  
   - Fully deployed and functional eBay Clone.
