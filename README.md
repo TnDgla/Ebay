@@ -1,4 +1,3 @@
-Here’s the document based on the transcript you provided for the eBay clone implementation:
 
 ---
 
